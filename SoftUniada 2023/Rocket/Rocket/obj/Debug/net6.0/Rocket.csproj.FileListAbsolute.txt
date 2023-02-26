@@ -1,0 +1,30 @@
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\bin\Debug\net6.0\Rocket.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\bin\Debug\net6.0\Rocket.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\bin\Debug\net6.0\Rocket.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\bin\Debug\net6.0\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\bin\Debug\net6.0\Rocket.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\refint\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\Rocket.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket\Rocket\obj\Debug\net6.0\ref\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\bin\Debug\net6.0\Rocket.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\bin\Debug\net6.0\Rocket.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\bin\Debug\net6.0\Rocket.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\bin\Debug\net6.0\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\bin\Debug\net6.0\Rocket.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\refint\Rocket.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\Rocket.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Rocket - не е правилната\Rocket\obj\Debug\net6.0\ref\Rocket.dll
