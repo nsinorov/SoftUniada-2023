@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\bin\Debug\net6.0\Pancakes.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\bin\Debug\net6.0\Pancakes.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\bin\Debug\net6.0\Pancakes.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\bin\Debug\net6.0\Pancakes.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\bin\Debug\net6.0\Pancakes.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\refint\Pancakes.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\Pancakes.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Pancakes\Pancakes\obj\Debug\net6.0\ref\Pancakes.dll
