@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\bin\Debug\net6.0\Biggest Formed Number.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\bin\Debug\net6.0\Biggest Formed Number.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\bin\Debug\net6.0\Biggest Formed Number.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\bin\Debug\net6.0\Biggest Formed Number.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\bin\Debug\net6.0\Biggest Formed Number.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\refint\Biggest Formed Number.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\Biggest Formed Number.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Biggest Formed Number\Biggest Formed Number\obj\Debug\net6.0\ref\Biggest Formed Number.dll
