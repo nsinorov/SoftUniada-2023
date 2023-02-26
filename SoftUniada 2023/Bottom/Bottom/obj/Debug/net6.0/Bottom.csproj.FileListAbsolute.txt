@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\bin\Debug\net6.0\Bottom.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\bin\Debug\net6.0\Bottom.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\bin\Debug\net6.0\Bottom.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\bin\Debug\net6.0\Bottom.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\bin\Debug\net6.0\Bottom.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\refint\Bottom.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\Bottom.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Bottom\Bottom\obj\Debug\net6.0\ref\Bottom.dll
