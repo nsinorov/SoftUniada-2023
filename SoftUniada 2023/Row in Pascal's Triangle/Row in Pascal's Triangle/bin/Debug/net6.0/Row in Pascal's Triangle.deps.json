@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Row in Pascal's Triangle/1.0.0": {
+        "runtime": {
+          "Row in Pascal's Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Row in Pascal's Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
