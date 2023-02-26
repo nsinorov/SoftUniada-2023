@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\net6.0\Longest Valid Parentheses.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\net6.0\Longest Valid Parentheses.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\net6.0\Longest Valid Parentheses.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\net6.0\Longest Valid Parentheses.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\net6.0\Longest Valid Parentheses.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\refint\Longest Valid Parentheses.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\Longest Valid Parentheses.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\net6.0\ref\Longest Valid Parentheses.dll
