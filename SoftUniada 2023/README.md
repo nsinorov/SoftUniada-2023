@@ -1,7 +1,7 @@
 I've managed to solve 6/10 Problems. Place 69 ouf of 415 contestants.
 
 01. Row in Pascal's Triangle - Easy
-02. Rocket - Simple - but with a little bit different Output
+02. Rocket - Simple
 03. Longest Valid Parentheses - Elementary
 04. Rotate Matrix - Easy
 05. Biggest Formed Number - Medium - Hard
