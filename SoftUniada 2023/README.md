@@ -1,4 +1,4 @@
-I've managed to solve 6/10 Problems.
+I've managed to solve 6/10 Problems. Place 69 ouf of 415 contestants.
 
 01. Row in Pascal's Triangle - Easy
 02. Rocket - Simple - but with a little bit different Output
