@@ -1,1 +1,1 @@
-
+Given a text that is a combination of open parentheses "(" and parentheses ")". Any open parenthesis and subsequent closed parenthesis form a valid combination. Find the length of the longest sequence of valid combinations.
