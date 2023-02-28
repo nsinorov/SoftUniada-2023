@@ -6,3 +6,4 @@ Note: The first 6 lines of Pascal's triangle:
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/221916913-65b20c2d-e354-4ee5-be53-079b811ca259.png)
