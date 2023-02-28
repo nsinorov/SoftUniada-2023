@@ -5,3 +5,4 @@ Given a square matrix (N x N) of integers with N number of rows and columns. The
 ### Examples: 
 
 ![image](https://user-images.githubusercontent.com/45227327/221918099-9a376d0e-de47-4286-8de6-8483e5a1e29c.png)
+![image](https://user-images.githubusercontent.com/45227327/221918180-5201b035-3355-4e9c-ad92-c6b7e6c8b55a.png)
