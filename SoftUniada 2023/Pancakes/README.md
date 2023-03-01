@@ -6,3 +6,5 @@ We are given a string of integers - N, which represents the pancake. Each number
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/222272573-e9b05e87-dd54-4058-bcc6-92b4a45b0391.png)
+![image](https://user-images.githubusercontent.com/45227327/222272633-b90ed710-0473-4c3a-a601-05c04ca1c7ee.png)
