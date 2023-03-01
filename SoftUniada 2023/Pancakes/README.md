@@ -3,3 +3,6 @@ We are given a string of integers - N, which represents the pancake. Each number
      If there are 2 parts with the largest amount, we choose the longer one.
      If there are 2 parts with the largest sum and the same length, we choose the one that occurs earlier in the row.
      The part of the pancake that we choose must contain at least 1 element.
+
+### Examples:
+
