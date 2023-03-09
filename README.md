@@ -4,4 +4,4 @@ Competitive programming, organized from SoftUni for the 8th year in a row, where
 
 I've been competeting in the category "Competitive Programming" - there were 10 Algorithm problems to be solved for 5 hours.
 
-Place 69 ouf of 415 contestants.
+### Place 69 ouf of 415 contestants.
